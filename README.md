@@ -1,16 +1,3 @@
-# sign_in_sign_up
+# A simple design on Flutter sign up and sign page
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![317555153_1978068939209122_3409689380030678848_n](https://user-images.githubusercontent.com/61974104/205299394-81a83160-b5a7-4cbf-a37d-c569f42e7ad4.jpg)
